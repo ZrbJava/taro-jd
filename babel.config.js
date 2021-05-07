@@ -2,9 +2,12 @@
 // https://github.com/NervJS/taro/blob/next/packages/babel-preset-taro/README.md
 module.exports = {
   presets: [
-    ['taro', {
-      framework: 'vue',
-      ts: false
-    }]
+    [
+      "taro",
+      {
+        framework: "vue",
+        ts: true
+      }
+    ]
   ]
-}
+};

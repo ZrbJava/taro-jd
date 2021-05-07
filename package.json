@@ -5,7 +5,7 @@
   "description": "taro_test",
   "templateInfo": {
     "name": "taro-ui-vue",
-    "typescript": false,
+    "typescript": true,
     "css": "sass"
   },
   "scripts": {
